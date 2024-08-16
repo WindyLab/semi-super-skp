@@ -1,11 +1,14 @@
 <div align="center">
   <h1>Semi-Supervised Semantic Key Point Detection via Bundle Adjustment</h1>
 <p align="center">
+  <a href="https://shiyuzhao.westlake.edu.cn/2024IROSLiKai.pdf">
+    <img src="https://img.shields.io/badge/Paper-blue?logo=googledocs&logoColor=white&labelColor=grey&color=blue"></a>
   <a href="https://pan.baidu.com/s/1KyvN9--4radHq7ZZAiqnig?pwd=128y">
     <img src="https://img.shields.io/badge/Baidu Netdisk-blue?logo=dask&logoColor=white&labelColor=grey&color=blue"></a>
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
 </p>
+
 </div>
 
 This repository contains the code and data of our paper: "Uncertainty-Aware Semi-Supervised Semantic Key Point Detection via Bundle Adjustment" submitted to **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024**.

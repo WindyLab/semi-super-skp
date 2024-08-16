@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Semi-Supervised Semantic Key Point Detection via Bundle Adjustment</h1>
+  <h1>Uncertainty-Aware Semi-Supervised Semantic Key Point Detection via Bundle Adjustment</h1>
 <p align="center">
   <a href="https://shiyuzhao.westlake.edu.cn/2024IROSLiKai.pdf">
     <img src="https://img.shields.io/badge/Paper-blue?logo=googledocs&logoColor=white&labelColor=grey&color=blue"></a>

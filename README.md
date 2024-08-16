@@ -13,6 +13,9 @@
 
 This repository contains the code and data of our paper: "Uncertainty-Aware Semi-Supervised Semantic Key Point Detection via Bundle Adjustment" submitted to **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024**.
 
+![无标题](https://github.com/user-attachments/assets/72b4e99f-6576-45ab-a646-6936ce96aa26)
+
+
 ### Dataset Preparation
 
 #### YCB-Video
